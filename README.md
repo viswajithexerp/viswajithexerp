@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viswajith Venu
-- 👀 I’m part of Platpus team working on infrastructure
+- 👀 I’m part of Cloud Operations team working on infrastructure
 
 
 <!---
